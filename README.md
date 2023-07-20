@@ -2,4 +2,3 @@
 
 #
 
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/487895282551548277/F7F54208E52DC5B6CE5453B2A895291D7E565F45/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
